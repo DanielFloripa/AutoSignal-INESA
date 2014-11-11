@@ -1,7 +1,7 @@
 #include "Horarios.h"
 #include <EtherCard.h>
-#include <Wire.h>
-#include <DS1307new.h>
+#include <Wire.h> //Necessario biblioteca wire
+#include <DS1307new.h> //Indispensavel a versao 'new'
 #define RELE 9
 
 /**************************************************************************************************/
